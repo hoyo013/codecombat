@@ -291,7 +291,7 @@ module.exports = nativeDescription: "Deutsch (Deutschland)", englishDescription:
     infinite_loop_reset_level: "Level zurücksetzen"
     infinite_loop_comment_out: "Meinen Code auskommentieren"
     tip_toggle_play: "Wechsel zwischen Play und Pause mit Strg+P."
-    tip_scrub_shortcut: "Spule vor und zurück mit Strg+[ und Strg+]" # {change}
+    tip_scrub_shortcut: "Spule vor und zurück mit Strg+ [und Strg-]" # {change}
     tip_guide_exists: "Klicke auf die Anleitung am oberen Ende der Seite für nützliche Informationen."
     tip_open_source: "CodeCombat ist 100% quelloffen!"
 #    tip_tell_friends: "Enjoying CodeCombat? Tell your friends about us!"
@@ -765,7 +765,7 @@ module.exports = nativeDescription: "Deutsch (Deutschland)", englishDescription:
     article_editor_prefix: "Hast du einen Fehler in unseren Dokus gefunden? Willst du Anleitungen für deine Kreationen erstellen? Schau dir den"
     article_editor_suffix: "und hilf CodeCombat Spielern, das meiste aus ihrer Spielzeit herauszuholen."
     find_us: "Finde uns auf diesen Seiten"
-#    social_github: "Check out all our code on GitHub"
+    social_github: "Schau dir unseren gesamten Code auf GitHub an" #"Check out all our code on GitHub"
     social_blog: "Lese den CodeCombat Blog auf Sett"
     social_discource: "Schließe dich den Diskussionen in unserem Discourse Forum an"
     social_facebook: "Like CodeCombat auf Facebook"
